@@ -1,0 +1,260 @@
+{
+  "checks": [
+    "Quatro clínicas renderizadas",
+    "Um único título H1",
+    "Retorno ao Hub preservado",
+    "Todas as âncoras e referências SVG têm destino",
+    "Serviços: Odontologia",
+    "Foco inicial: Odontologia",
+    "Odontologia: custos e restrição",
+    "Foco contido ao voltar: Odontologia",
+    "Foco contido ao avançar: Odontologia",
+    "Foco devolvido: Odontologia",
+    "Horários preselecionados: Odontologia",
+    "Agenda não simulada: Odontologia",
+    "Localização pendente: Odontologia",
+    "Contato sincronizado: Odontologia",
+    "Foco no seletor de contato: Odontologia",
+    "Canais ausentes sem destinos fictícios: Odontologia",
+    "Mensagem contextual de canal ausente: Odontologia",
+    "Serviços: Medicina Veterinária",
+    "Foco inicial: Medicina Veterinária",
+    "Veterinária: custos, restrição e telefone exclusivo",
+    "Foco contido ao voltar: Medicina Veterinária",
+    "Foco contido ao avançar: Medicina Veterinária",
+    "Foco devolvido: Medicina Veterinária",
+    "Horários preselecionados: Medicina Veterinária",
+    "Agenda não simulada: Medicina Veterinária",
+    "Localização pendente: Medicina Veterinária",
+    "Contato sincronizado: Medicina Veterinária",
+    "Foco no seletor de contato: Medicina Veterinária",
+    "Canais ausentes sem destinos fictícios: Medicina Veterinária",
+    "Mensagem contextual de canal ausente: Medicina Veterinária",
+    "Serviços: Psicologia",
+    "Foco inicial: Psicologia",
+    "Psicologia: gratuidade",
+    "Foco contido ao voltar: Psicologia",
+    "Foco contido ao avançar: Psicologia",
+    "Foco devolvido: Psicologia",
+    "Horários preselecionados: Psicologia",
+    "Agenda não simulada: Psicologia",
+    "Localização pendente: Psicologia",
+    "Contato sincronizado: Psicologia",
+    "Foco no seletor de contato: Psicologia",
+    "Canais ausentes sem destinos fictícios: Psicologia",
+    "Mensagem contextual de canal ausente: Psicologia",
+    "Serviços: Fisioterapia",
+    "Foco inicial: Fisioterapia",
+    "Fisioterapia: gratuidade",
+    "Foco contido ao voltar: Fisioterapia",
+    "Foco contido ao avançar: Fisioterapia",
+    "Foco devolvido: Fisioterapia",
+    "Horários preselecionados: Fisioterapia",
+    "Agenda não simulada: Fisioterapia",
+    "Localização pendente: Fisioterapia",
+    "Contato sincronizado: Fisioterapia",
+    "Foco no seletor de contato: Fisioterapia",
+    "Canais ausentes sem destinos fictícios: Fisioterapia",
+    "Mensagem contextual de canal ausente: Fisioterapia",
+    "Consultar horários permite escolher a clínica",
+    "Mudança de clínica no diálogo atualiza horários",
+    "Fechamento pelo fundo do diálogo",
+    "FAQ 1 abre pelo teclado",
+    "FAQ 1 fecha pelo teclado",
+    "FAQ 2 abre pelo teclado",
+    "FAQ 2 fecha pelo teclado",
+    "Modal institucional sobre abre",
+    "Modal sobre: foco inicial",
+    "Modal sobre: fundo inerte",
+    "Modal sobre: foco contido",
+    "Modal sobre: foco restaurado",
+    "Modal sobre: página reativada",
+    "Modal institucional termos abre",
+    "Modal termos: foco inicial",
+    "Modal termos: fundo inerte",
+    "Modal termos: foco contido",
+    "Modal termos: foco restaurado",
+    "Modal termos: página reativada",
+    "Modal institucional privacidade abre",
+    "Modal privacidade: foco inicial",
+    "Modal privacidade: fundo inerte",
+    "Modal privacidade: foco contido",
+    "Modal privacidade: foco restaurado",
+    "Modal privacidade: página reativada",
+    "Botão Entendido fecha modal institucional",
+    "Botão Fechar institucional funciona",
+    "Fundo fecha modal institucional",
+    "Telefone válido gera tel:",
+    "E-mail válido gera mailto:",
+    "WhatsApp recebe mensagem da clínica selecionada",
+    "Canais cadastrados tornam-se disponíveis",
+    "Horários cadastrados são exibidos",
+    "Agenda cadastrada aponta ao serviço configurado",
+    "Endereço cadastrado é exibido",
+    "Mapa cadastrado aponta ao destino configurado",
+    "Canais malformados são recusados",
+    "Trocar para clínica sem contatos remove destinos anteriores",
+    "Sem overflow ou texto cortado em 1024px",
+    "Número correto de colunas em 1024px",
+    "Sem overflow ou texto cortado em 1440px",
+    "Número correto de colunas em 1440px",
+    "Sem overflow ou texto cortado em 768px",
+    "Número correto de colunas em 768px",
+    "Sem overflow ou texto cortado em 375px",
+    "Número correto de colunas em 375px",
+    "Diálogo cabe na tela de 375px",
+    "Preferência por movimento reduzido respeitada",
+    "Sem erros JavaScript ou HTTP",
+    "Fontes e recursos carregaram sem falhas"
+  ],
+  "viewports": [
+    {
+      "width": 1024,
+      "pageWidth": 1024,
+      "height": 1577,
+      "columns": 4,
+      "cards": [
+        {
+          "x": 51,
+          "y": 405,
+          "width": 217,
+          "height": 261
+        },
+        {
+          "x": 286,
+          "y": 405,
+          "width": 217,
+          "height": 261
+        },
+        {
+          "x": 521,
+          "y": 405,
+          "width": 217,
+          "height": 261
+        },
+        {
+          "x": 756,
+          "y": 405,
+          "width": 217,
+          "height": 261
+        }
+      ],
+      "hero": 226,
+      "font": "Montserrat, \"Red Hat Display\", sans-serif",
+      "clipped": []
+    },
+    {
+      "width": 1440,
+      "pageWidth": 1440,
+      "height": 1649,
+      "columns": 4,
+      "cards": [
+        {
+          "x": 125,
+          "y": 455,
+          "width": 284,
+          "height": 281
+        },
+        {
+          "x": 427,
+          "y": 455,
+          "width": 284,
+          "height": 281
+        },
+        {
+          "x": 729,
+          "y": 455,
+          "width": 284,
+          "height": 281
+        },
+        {
+          "x": 1031,
+          "y": 455,
+          "width": 284,
+          "height": 281
+        }
+      ],
+      "hero": 265,
+      "font": "Montserrat, \"Red Hat Display\", sans-serif",
+      "clipped": []
+    },
+    {
+      "width": 768,
+      "pageWidth": 768,
+      "height": 1912,
+      "columns": 2,
+      "cards": [
+        {
+          "x": 39,
+          "y": 385,
+          "width": 335,
+          "height": 249
+        },
+        {
+          "x": 394,
+          "y": 385,
+          "width": 335,
+          "height": 249
+        },
+        {
+          "x": 39,
+          "y": 654,
+          "width": 335,
+          "height": 249
+        },
+        {
+          "x": 394,
+          "y": 654,
+          "width": 335,
+          "height": 249
+        }
+      ],
+      "hero": 205,
+      "font": "Montserrat, \"Red Hat Display\", sans-serif",
+      "clipped": []
+    },
+    {
+      "width": 375,
+      "pageWidth": 375,
+      "height": 3828,
+      "columns": 1,
+      "cards": [
+        {
+          "x": 16,
+          "y": 530,
+          "width": 343,
+          "height": 274
+        },
+        {
+          "x": 16,
+          "y": 820,
+          "width": 343,
+          "height": 274
+        },
+        {
+          "x": 16,
+          "y": 1110,
+          "width": 343,
+          "height": 252
+        },
+        {
+          "x": 16,
+          "y": 1378,
+          "width": 343,
+          "height": 252
+        }
+      ],
+      "hero": 331,
+      "font": "Montserrat, \"Red Hat Display\", sans-serif",
+      "clipped": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "finalVisualChecks": [
+    "Capturas atualizadas após ajustes de contraste, peso e espaçamento",
+    "Sem overflow ou texto cortado em 1440, 1024, 768 e 375px",
+    "Cabeçalho de diálogo acessível ao rolar no celular"
+  ],
+  "primaryButtonContrast": ">= 4.64:1 entre texto branco e extremos do gradiente"
+}
